@@ -3,7 +3,7 @@
 </div>  
   
 
-# <div align="center">I'm Tarcisio, a Sniversity  Student of Science Computer 👨‍💻 🚀</div>  
+# <div align="center">I'm Tarcisio, a University Student of Science Computer 👨‍💻 🚀</div>  
   
 
 - 🔭 I’m currently working on [Next Level Week #3](https://github.com/tarcisions/NLW)  
